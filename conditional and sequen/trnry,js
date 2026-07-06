@@ -1,0 +1,13 @@
+let num1=90;
+let num2=900;
+
+let greater=num1>num2?num1:num2==num1?"equal":num2;
+
+console.log(num1>num2?num1:num2==num1?"equal":num2);
+let flag;
+let num=flag?100:200;
+console.log(num);
+
+
+
+// console.log("greater no is"+" "+((num1>num2)?greater=num1:greater=num2));
